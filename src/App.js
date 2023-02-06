@@ -41,11 +41,12 @@ function App() {
     console.log(network)
 
     const pepematilda = new ethers.Contract( 
-     config[network.chainId].pepematilda.address,
-     PepeMatilda, 
-     provider 
-     )
-     setPepeMatilda(pepematilda)
+      config[network.chainId].pepematilda.address,
+      PepeMatilda, 
+      provider 
+    )
+    setPepeMatilda(pepematilda)
+    
     
 
      //loadproducts
