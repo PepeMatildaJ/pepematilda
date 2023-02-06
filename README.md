@@ -32,3 +32,4 @@ In a separate terminal execute:
 # miniature-octo-eureka
 # super-duper-memory
 # animated-engine
+# solid-invention
