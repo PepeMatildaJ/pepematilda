@@ -30,3 +30,4 @@ In a separate terminal execute:
 ### 6. Start frontend
 `$ npm run start`# marketdapp
 # miniature-octo-eureka
+# super-duper-memory
