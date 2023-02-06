@@ -31,3 +31,4 @@ In a separate terminal execute:
 `$ npm run start`# marketdapp
 # miniature-octo-eureka
 # super-duper-memory
+# animated-engine
